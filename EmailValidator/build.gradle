@@ -52,8 +52,8 @@ afterEvaluate {
         publications {
             release(MavenPublication) {
                 from components.release
-                groupId = "com.ar.validator"
-                artifactId = "final"
+                groupId = "com.github.rajputashu"
+                artifactId = "ArLibrary"
                 version = 'v1.0.0'
             }
         }
