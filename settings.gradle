@@ -7,6 +7,6 @@ dependencyResolutionManagement {
         maven { url "https://jitpack.io" }
     }
 }
-rootProject.name = "ARLibrary"
+rootProject.name = "ArLibrary"
 include ':app'
 include ':EmailValidator'
